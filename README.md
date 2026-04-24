@@ -62,3 +62,7 @@ python solution.py --images fig01.jpg --min-area 15.0
 python task1/solution.py --images task1/fig01.jpg --out-dir ./my_results
 ```
 查看具体任务支持的参数，可以运行 `python taskX.py --help`。
+
+   ## 许可证
+
+[MIT](./LICENSE)
